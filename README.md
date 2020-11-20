@@ -12,3 +12,6 @@ Use your balance to navigate your rocket ship through space. Make your way throu
 
 ### People:
 Omoruyi Atekha, Cole Kingston, Sophia Mittman, Mao Otsutsuki, Minna Wytetenbach
+
+### Presentation:
+https://vimeo.com/343516002
